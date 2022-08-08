@@ -1,4 +1,4 @@
-# codewars_java_TenMinutesWalk
+# TenMinutesWalk (codewars)
 
 <img src="https://img.shields.io/badge/language-Java-DC143C">
 
